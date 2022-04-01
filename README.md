@@ -14,8 +14,8 @@ sudo yum module install -y container-tools:rhel8
 ## Jump right in with an Introduction
 ```
 podman run --name ceevee --rm -d -p 8083:80 quay.io/j0hnniewa1ker/ceevee
+python3 -m webbrowser http://localhost:8083
 ```
-open http://localhost:8083 in a browser
 ## Concept
 
 A way to personalize the concepts of containers. This came in the mail: [Johnnie's Selected Seeds](https://www.johnnyseeds.com/on/demandware.static/-/Library-Sites-JSSSharedLibrary/default/dw293a81b5/assets/information/2022-digital-master-catalog.pdf) catalog
