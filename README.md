@@ -18,7 +18,7 @@ python3 -m webbrowser http://localhost:8083
 ```
 ## Concept
 
-A way to personalize the concepts of containers. This came in the mail: [Johnnie's Selected Seeds](https://www.johnnyseeds.com/on/demandware.static/-/Library-Sites-JSSSharedLibrary/default/dw293a81b5/assets/information/2022-digital-master-catalog.pdf) catalog
+A way to personalize the concepts of containers. This came in the mail: [Johnnie's Selected Seeds](https://www.johnnyseeds.com/shop-johnnys/digital-master-catalog.html) catalog
 
 The catalog (repository) lists all the seeds (images) you might want to use.
 
